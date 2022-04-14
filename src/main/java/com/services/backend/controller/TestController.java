@@ -13,5 +13,11 @@ public class TestController {
 		
 		return "Hello, Welcome Naveen";
 	}
+	
+	@GetMapping("sayBye")
+	public String sayBye() {
+		
+		return "Bye Naveen, Have a nice day";
+	}
 
 }
