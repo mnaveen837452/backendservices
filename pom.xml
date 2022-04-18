@@ -11,6 +11,7 @@
 	<groupId>com.services.backend</groupId>
 	<artifactId>backend-services</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+	<packaging>war</packaging>
 	<name>backend-services</name>
 	<description>Backend services demo project</description>
 	<properties>
